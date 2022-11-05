@@ -1,0 +1,23 @@
+/*
+Challenge: créer la partie CSS
+
+*/
+
+.main {
+    
+    margin-top:110px;
+    
+}
+
+.logo-img {
+    display:block;
+   
+    width:310px;
+    margin-bottom:20px;
+}
+
+.recherche-input{
+       display:block;
+      
+       width:420px;
+}
